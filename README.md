@@ -33,6 +33,9 @@ A continuación, se encuentran los temas que he cubierto:
 9. **Manejo de Slices**  
    Aprender a utilizar slices, una estructura similar a los arrays pero con tamaño dinámico, entendiendo su creación, manipulación y utilidad en Go.
 
+10. **Trabajo en Multi-módulo**  
+    Explorar cómo estructurar y gestionar proyectos que contienen múltiples módulos en Go, permitiendo una mayor modularidad y reutilización de código entre distintos componentes del proyecto.
+
 ## Objetivo
 
 El objetivo de este repositorio es consolidar conocimientos básicos de Go para posteriormente avanzar hacia temas más complejos y desarrollar aplicaciones más completas.
