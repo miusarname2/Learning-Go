@@ -24,6 +24,15 @@ A continuación, se encuentran los temas que he cubierto:
 6. **Manejar Errores**  
    Introducción al manejo de errores en Go, viendo cómo gestionar posibles errores en las funciones y mejorar la fiabilidad del código.
 
+7. **Testing Básico**  
+   Aprender las bases de las pruebas en Go, incluyendo cómo escribir pruebas unitarias básicas para garantizar la funcionalidad correcta del código.
+
+8. **Manejo de Arrays**  
+   Comprender cómo definir y trabajar con arrays en Go, incluyendo operaciones básicas y manejo de elementos dentro de arrays.
+
+9. **Manejo de Slices**  
+   Aprender a utilizar slices, una estructura similar a los arrays pero con tamaño dinámico, entendiendo su creación, manipulación y utilidad en Go.
+
 ## Objetivo
 
 El objetivo de este repositorio es consolidar conocimientos básicos de Go para posteriormente avanzar hacia temas más complejos y desarrollar aplicaciones más completas.
