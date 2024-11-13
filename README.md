@@ -36,6 +36,15 @@ A continuación, se encuentran los temas que he cubierto:
 10. **Trabajo en Multi-módulo**  
     Explorar cómo estructurar y gestionar proyectos que contienen múltiples módulos en Go, permitiendo una mayor modularidad y reutilización de código entre distintos componentes del proyecto.
 
+11. **Conexión a una Base de Datos MySQL**  
+    Establecer una conexión con una base de datos MySQL desde Go, incluyendo configuración de credenciales y manejo seguro de la conexión.
+
+12. **Creación de Filas en una Tabla**  
+    Insertar nuevas filas en una tabla de la base de datos, manejando la inserción de datos y verificando que los registros se almacenen correctamente.
+
+13. **Búsqueda por Condición**  
+    Realizar consultas en la base de datos con filtros específicos, buscando registros que cumplan con ciertas condiciones y obteniendo los resultados de manera eficiente.
+
 ## Objetivo
 
 El objetivo de este repositorio es consolidar conocimientos básicos de Go para posteriormente avanzar hacia temas más complejos y desarrollar aplicaciones más completas.
