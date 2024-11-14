@@ -45,6 +45,12 @@ A continuación, se encuentran los temas que he cubierto:
 13. **Búsqueda por Condición**  
     Realizar consultas en la base de datos con filtros específicos, buscando registros que cumplan con ciertas condiciones y obteniendo los resultados de manera eficiente.
 
+14. **Crear una API REST**  
+    Desarrollar una API REST en Go, implementando operaciones para:
+    - **Crear**: Añadir nuevos recursos a través de la API.
+    - **Consultar**: Obtener la lista completa de recursos disponibles.
+    - **Consultar por ID**: Realizar búsquedas específicas de recursos según su identificador único.
+
 ## Objetivo
 
 El objetivo de este repositorio es consolidar conocimientos básicos de Go para posteriormente avanzar hacia temas más complejos y desarrollar aplicaciones más completas.
